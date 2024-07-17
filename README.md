@@ -68,7 +68,7 @@ The front-end interface, designed using Qt, allows users to interact with the se
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/Inverto.git
+   git clone https://github.com/themihirmathur/Inverto.git
    cd Inverto
    ```
 
